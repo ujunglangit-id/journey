@@ -12,17 +12,17 @@ import (
 	"time"
 
 	"github.com/dimfeld/httptreemux"
-	"github.com/kabukky/journey/authentication"
-	"github.com/kabukky/journey/configuration"
-	"github.com/kabukky/journey/conversion"
-	"github.com/kabukky/journey/database"
-	"github.com/kabukky/journey/date"
-	"github.com/kabukky/journey/filenames"
-	"github.com/kabukky/journey/slug"
-	"github.com/kabukky/journey/structure"
-	"github.com/kabukky/journey/structure/methods"
-	"github.com/kabukky/journey/templates"
 	"github.com/satori/go.uuid"
+	"github.com/ujunglangit-id/journey/authentication"
+	"github.com/ujunglangit-id/journey/configuration"
+	"github.com/ujunglangit-id/journey/conversion"
+	"github.com/ujunglangit-id/journey/database"
+	"github.com/ujunglangit-id/journey/date"
+	"github.com/ujunglangit-id/journey/filenames"
+	"github.com/ujunglangit-id/journey/slug"
+	"github.com/ujunglangit-id/journey/structure"
+	"github.com/ujunglangit-id/journey/structure/methods"
+	"github.com/ujunglangit-id/journey/templates"
 )
 
 type JsonPost struct {

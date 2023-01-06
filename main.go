@@ -8,15 +8,15 @@ import (
 	"strings"
 
 	"github.com/dimfeld/httptreemux"
-	"github.com/kabukky/journey/configuration"
-	"github.com/kabukky/journey/database"
-	"github.com/kabukky/journey/filenames"
-	"github.com/kabukky/journey/flags"
-	"github.com/kabukky/journey/https"
-	"github.com/kabukky/journey/plugins"
-	"github.com/kabukky/journey/server"
-	"github.com/kabukky/journey/structure/methods"
-	"github.com/kabukky/journey/templates"
+	"github.com/ujunglangit-id/journey/configuration"
+	"github.com/ujunglangit-id/journey/database"
+	"github.com/ujunglangit-id/journey/filenames"
+	"github.com/ujunglangit-id/journey/flags"
+	"github.com/ujunglangit-id/journey/https"
+	"github.com/ujunglangit-id/journey/plugins"
+	"github.com/ujunglangit-id/journey/server"
+	"github.com/ujunglangit-id/journey/structure/methods"
+	"github.com/ujunglangit-id/journey/templates"
 )
 
 func httpsRedirect(w http.ResponseWriter, r *http.Request, _ map[string]string) {

@@ -1,11 +1,12 @@
+//go:build !noplugins
 // +build !noplugins
 
 package plugins
 
 import (
 	"errors"
-	"github.com/kabukky/journey/filenames"
-	"github.com/kabukky/journey/structure"
+	"github.com/ujunglangit-id/journey/filenames"
+	"github.com/ujunglangit-id/journey/structure"
 	"github.com/yuin/gopher-lua"
 	"log"
 	"os"

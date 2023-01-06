@@ -1,7 +1,7 @@
 package methods
 
 import (
-	"github.com/kabukky/journey/structure"
+	"github.com/ujunglangit-id/journey/structure"
 	"strings"
 )
 

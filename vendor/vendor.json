@@ -16,13 +16,13 @@
 		},
 		{
 			"checksumSHA1": "vWIrTn1L+nAiNl1DJIAusXySTIk=",
-			"path": "github.com/kabukky/feeds",
+			"path": "github.com/ujunglangit-id/feeds",
 			"revision": "c7025aca4568efe41d8864cc51e3d193bdc61339",
 			"revisionTime": "2015-11-10T11:43:25Z"
 		},
 		{
 			"checksumSHA1": "pa+ZwMzIv+u+BlL8Q2xgL9cQtJg=",
-			"path": "github.com/kabukky/httpscerts",
+			"path": "github.com/ujunglangit-id/httpscerts",
 			"revision": "617593d7dcb39c9ed617bb62c5e2056244d02184",
 			"revisionTime": "2015-03-20T12:54:33Z"
 		},
@@ -117,5 +117,5 @@
 			"revisionTime": "2016-10-11T02:33:12Z"
 		}
 	],
-	"rootPath": "github.com/kabukky/journey"
+	"rootPath": "github.com/ujunglangit-id/journey"
 }

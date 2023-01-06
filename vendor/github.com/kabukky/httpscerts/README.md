@@ -12,7 +12,7 @@ Use this library for testing purposes only, e.g. to experiment with the built-in
     
     import (
         "fmt"
-        "github.com/kabukky/httpscerts"
+        "github.com/ujunglangit-id/httpscerts"
         "log"
         "net/http"
     )
